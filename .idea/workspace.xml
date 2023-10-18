@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7123309d-90bd-4d44-b564-efc561576e5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Ostrich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discountStrategy/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/CreditPaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/UserOrderNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileHandler/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/ContentFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/FileHandlerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/TextFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileRepository/DataRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileRepository/FileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileRepository/InitialFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileRepository/InitialProjectDataHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileRepository/ProjectDataHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notificationService/InitialEmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notificationService/InitialUserNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportGeneration/JsonReportFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportGeneration/RefactoredReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportGeneration/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportGeneration/ReportFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportGeneration/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportGeneration/TextReportFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/MeetingTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/TimeSheetTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/WorkTaskOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/WorkTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sample.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WuQzns2EMjJLuwZtbKMPCtc0bZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/billf/OneDrive/Desktop/BitbucketTest/quicktest",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FileHandler">
+    <configuration name="FileHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileHandler.FileHandler" />
+      <module name="SolidPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileHandler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileHandlerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileHandlerSolution.FileHandlerApp" />
+      <module name="SolidPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileHandlerSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileHandler" />
+        <item itemvalue="Application.FileHandlerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7123309d-90bd-4d44-b564-efc561576e5e" name="Changes" comment="" />
+      <created>1697580251202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697580251202</updated>
+      <workItem from="1697580253515" duration="14470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
