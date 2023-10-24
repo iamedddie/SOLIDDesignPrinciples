@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7123309d-90bd-4d44-b564-efc561576e5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/LineItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/Product.java" afterDir="false" />
+    <list default="true" id="7123309d-90bd-4d44-b564-efc561576e5e" name="Changes" comment="Restored the order package and its classes (Order, LineItem and Product">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/FileHandlerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/FileHandlerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/FileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/AutoCloseFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/billf/OneDrive/Desktop/BitbucketTest/quicktest",
     "nodejs_package_manager_path": "npm",
@@ -63,7 +64,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileHandlerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="fileHandlerSolution.FileHandlerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fileHandlerSolution.FileHandlerApp" />
       <module name="SolidPrinciples" />
       <extension name="coverage">
@@ -79,7 +80,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.FileHandler" />
-        <item itemvalue="Application.FileHandlerApp" />
+        <item itemvalue="Application.fileHandlerSolution.FileHandlerApp" />
       </list>
     </recent_temporary>
   </component>
@@ -91,8 +92,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697580251202</updated>
-      <workItem from="1697580253515" duration="18230000" />
+      <workItem from="1697580253515" duration="20694000" />
     </task>
+    <task id="LOCAL-00001" summary="Restored the order package and its classes (Order, LineItem and Product">
+      <created>1698103748897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698103748897</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Restored the order package and its classes (Order, LineItem and Product">
+      <created>1698103813422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698103813422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Restored the order package and its classes (Order, LineItem and Product" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restored the order package and its classes (Order, LineItem and Product" />
   </component>
 </project>

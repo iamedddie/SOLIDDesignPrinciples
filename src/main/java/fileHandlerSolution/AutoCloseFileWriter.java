@@ -2,11 +2,10 @@ package fileHandlerSolution;
 
 import java.io.IOException;
 
-public class FileWriter {
-
+public class AutoCloseFileWriter {
     private String filename;
 
-    public FileWriter(String filename) {
+    public AutoCloseFileWriter(String filename) {
         this.filename = filename;
     }
 
