@@ -1,5 +1,6 @@
 package fileHandlerSolution;
 
+import java.io.FileWriter;
 import java.io.IOException;
 
 public class AutoCloseFileWriter {
@@ -10,7 +11,7 @@ public class AutoCloseFileWriter {
     }
 
     public void write(String content) throws IOException {
-        try (java.io.FileWriter writer = new java.io.FileWriter(filename)) {
+        try (FileWriter writer = new FileWriter(filename)) {
             writer.write(content);
         }
     }
