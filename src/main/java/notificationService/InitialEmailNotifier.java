@@ -1,8 +1,11 @@
 package notificationService;
 
-public class InitialEmailNotifier {
+public class InitialEmailNotifier   implements Notifier {
+    Notification notification;
+
+
 
     public void send(String message) {
-        // Logic for sending an email notification
+        System.out.println("New Email Notification; "+ message);
     }
 }

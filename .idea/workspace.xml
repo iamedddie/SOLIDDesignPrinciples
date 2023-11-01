@@ -5,13 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7123309d-90bd-4d44-b564-efc561576e5e" name="Changes" comment="Restored the order package and its classes (Order, LineItem and Product">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Goose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Hawk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/IBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Prey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discountStrategy/DiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discountStrategy/EmployeeDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discountStrategy/FlatDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discountStrategy/SeasonalDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discountStrategy/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/CustomerNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/EmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/NewOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/PaypalPaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/TextNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/AudioMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/VideoPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/VisualMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notificationService/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notificationService/InitialTextNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notificationService/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notificationService/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notificationService/TextNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notificationService/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/AutoCloseFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/AutoCloseFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/birds/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/birds/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/birds/Ostrich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discountStrategy/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discountStrategy/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecommerce/CreditPaymentProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecommerce/CreditPaymentProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecommerce/OrderProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecommerce/OrderProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fileHandler/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileHandler/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/FileHandlerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/FileHandlerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediaLibrary/AudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/AudioPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediaLibrary/ImageViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/ImageViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediaLibrary/MediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mediaLibrary/MediaPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/notificationService/InitialEmailNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notificationService/InitialEmailNotifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/notificationService/InitialUserNotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notificationService/InitialUserNotificationService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,6 +72,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2WuQzns2EMjJLuwZtbKMPCtc0bZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +88,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/billf/OneDrive/Desktop/BitbucketTest/quicktest",
+    "last_opened_file_path": "/Users/bosahedwards/Dev/Workspace/SOLIDDesignPrinciples",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -48,13 +96,22 @@
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FileHandler">
-    <configuration name="FileHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fileHandler.FileHandler" />
-      <module name="SolidPrinciples" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ecommerce" />
+      <recent name="notificationService" />
+      <recent name="mediaLibrary" />
+      <recent name="birds" />
+      <recent name="discountStrategy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ecommerce.Main" />
+      <module name="SOLIDDesignPrinciples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fileHandler.*" />
+          <option name="PATTERN" value="ecommerce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +119,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fileHandlerSolution.FileHandlerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fileHandlerSolution.FileHandlerApp" />
-      <module name="SolidPrinciples" />
+    <configuration name="birds.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="birds.main" />
+      <module name="SOLIDDesignPrinciples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fileHandlerSolution.*" />
+          <option name="PATTERN" value="birds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="discountStrategy.main" />
+      <module name="SOLIDDesignPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="discountStrategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mediaLibrary.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mediaLibrary.main" />
+      <module name="SOLIDDesignPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mediaLibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="notificationService.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notificationService.main" />
+      <module name="SOLIDDesignPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notificationService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileHandler" />
-        <item itemvalue="Application.fileHandlerSolution.FileHandlerApp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.notificationService.main" />
+        <item itemvalue="Application.mediaLibrary.main" />
+        <item itemvalue="Application.birds.main" />
+        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -126,5 +225,45 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Restored the order package and its classes (Order, LineItem and Product" />
     <option name="LAST_COMMIT_MESSAGE" value="Restored the order package and its classes (Order, LineItem and Product" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mediaLibrary/AudioPlayer.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/notificationService/main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/notificationService/InitialUserNotificationService.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ecommerce/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ecommerce/OrderProcessor.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/notificationService/InitialUserNotificationService.java</url>
+          <line>7</line>
+          <properties class="notificationService.InitialUserNotificationService" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

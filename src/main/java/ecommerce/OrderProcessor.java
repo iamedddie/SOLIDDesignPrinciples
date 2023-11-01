@@ -3,16 +3,24 @@ package ecommerce;
 import discountStrategy.Order;
 
 public class OrderProcessor {
-    private CreditPaymentProcessor paymentProcessor;
-    private UserOrderNotifier notifier;
 
-    public OrderProcessor() {
-        this.paymentProcessor = new CreditPaymentProcessor();
-        this.notifier = new UserOrderNotifier();
+    private PaymentProcessor processor;
+    private CustomerNotifier customerNotifier;
+    private double totalAmount;
+
+
+    //    public OrderProcessor(PaymentProcessor processor, CustomerNotifier customerNotifier) {
+//        this.processor = processor;
+//        this.customerNotifier = customerNotifier;
+//    }
+    public OrderProcessor(NewOrder order) {
+        this.processor = order.getProcessor();
+        this.customerNotifier = order.getNotifier();
+        this.totalAmount= order.getTotalAmount();
     }
 
-    public void processOrder(Order order) {
-        paymentProcessor.processPayment(order.getTotalAmount());
-        notifier.notifyUserOrderConfirmed();
+    public void processOrder() {
+        processor.processPayment(this.totalAmount);
+        customerNotifier.notifyCustomer();
     }
 }

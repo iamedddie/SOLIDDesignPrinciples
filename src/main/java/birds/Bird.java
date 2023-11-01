@@ -1,11 +1,13 @@
 package birds;
 
 public class Bird {
-    public void eat() {
-        System.out.println("Bird is eating.");
-    }
+      void peck() {
+          System.out.println("pecking......");
 
-    public void fly() {
-        System.out.println("Bird is flying.");
-    }
+     }
+
+     @Override
+     public String toString() {
+          return "Bird";
+     }
 }

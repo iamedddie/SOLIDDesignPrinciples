@@ -75,7 +75,7 @@ public class FileHandler {
 
     public static void main(String[] args) {
         try {
-            FileHandler handler = new FileHandler("src/main/resources/sample.txt");
+            FileHandler handler = new FileHandler("src/Main/resources/sample.txt");
             String content = handler.readFile();
             System.out.println(content);
 
